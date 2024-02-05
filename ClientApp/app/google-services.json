@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "552693968942",
+    "firebase_url": "https://finalapp-admin-default-rtdb.firebaseio.com",
+    "project_id": "finalapp-admin",
+    "storage_bucket": "finalapp-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552693968942:android:886e66f7382201f88befbf",
+        "android_client_info": {
+          "package_name": "com.example.clientapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0tacLIQdObhhRPdnKxNzszF0Sth3d2tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552693968942:android:2f83f7afc19757cb8befbf",
+        "android_client_info": {
+          "package_name": "com.example.finalappadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0tacLIQdObhhRPdnKxNzszF0Sth3d2tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
